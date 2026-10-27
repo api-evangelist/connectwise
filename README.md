@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ConnectWise is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.connectwise.com/
+ConnectWise provides a comprehensive suite of IT management software, including PSA, RMM, remote access, AI agents, and cybersecurity solutions. Their platform enables MSPs and IT departments to automate workflows, secure endpoints, and integrate with third‑party tools via documented APIs and developer resources.
+
+**Areas:** IT Management · MSP · PSA · RMM · Remote Access · Cybersecurity
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.connectwise.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/connectwise/](https://apis.io/providers/connectwise/).
